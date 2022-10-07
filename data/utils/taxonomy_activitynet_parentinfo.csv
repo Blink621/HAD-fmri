@@ -1,0 +1,181 @@
+nodeName,nodeId,parent_1st,parent_2nd,parent_3rd
+Arm wrestling,271,272,17,5
+Assembling bicycle,273,56,13,1
+BMX,274,275,17,5
+Baking cookies,276,31,18,4
+Baton twirling,277,64,17,5
+Beach soccer,278,279,17,5
+Beer pong,280,48,11,7
+Blow-drying hair,281,62,20,2
+Braiding hair,285,62,20,2
+Building sandcastles,286,287,21,7
+Bullfighting,288,289,17,5
+Calf roping,290,289,17,5
+Camel ride,291,64,17,5
+Canoeing,292,293,17,5
+Capoeira,294,27,17,5
+Carving jack-o-lanterns,295,33,15,1
+Cleaning sink,297,33,15,1
+Croquet,299,64,17,5
+Cutting the grass,301,66,10,1
+Decorating the Christmas tree,302,33,15,1
+Disc dog,303,26,22,1
+Doing crunches,305,306,17,5
+Drum corps,307,61,21,7
+Elliptical trainer,308,58,17,5
+Doing fencing,309,310,17,5
+Fixing the roof,311,312,12,1
+Fun sliding down,313,314,21,7
+Futsal,315,279,17,5
+Grooming dog,317,65,22,1
+Hand car wash,318,56,13,1
+Hanging wallpaper,319,33,15,1
+Having an ice cream,320,46,18,4
+Hitting a pinata,321,48,11,7
+Hula hoop,322,48,11,7
+Hurling,323,64,17,5
+Ice fishing,324,325,17,5
+Kite flying,327,48,11,7
+Kneeling,328,306,17,5
+Knitting,329,45,16,1
+Laying tile,330,33,15,1
+Longboarding,331,64,17,5
+Making a cake,332,31,18,4
+Making a lemonade,333,31,18,4
+Making an omelette,334,31,18,4
+Mooping floor,335,37,16,1
+Painting fence,336,12,12,1
+Painting furniture,337,338,15,1
+Plastering,340,33,15,1
+Playing beach volleyball,341,342,17,5
+Playing blackjack,343,344,21,7
+Playing congas,345,61,21,7
+Playing drums,346,61,21,7
+Playing ice hockey,347,60,17,5
+Playing pool,348,48,11,7
+Playing rubik cube,349,48,11,7
+Powerbocking,350,64,17,5
+Putting in contact lenses,351,62,20,2
+Putting on shoes,352,62,20,2
+Rafting,353,293,17,5
+Raking leaves,354,66,10,1
+Riding bumper cars,356,48,11,7
+Rock-paper-scissors,358,48,11,7
+Rollerblading,359,64,17,5
+Rope skipping,361,306,17,5
+Running a marathon,362,363,17,5
+Scuba diving,364,42,17,5
+Sharpening knives,365,366,367,1
+Shuffleboard,368,48,11,7
+Skiing,369,370,17,5
+Slacklining,371,48,11,7
+Snow tubing,372,370,17,5
+Snowboarding,373,370,17,5
+Spread mulch,374,66,10,1
+Sumo,375,272,17,5
+Surfing,376,42,17,5
+Swimming,377,42,17,5
+Swinging at the playground,378,314,21,7
+Table soccer,379,48,11,7
+Throwing darts,380,48,11,7
+Trimming branches or hedges,381,66,10,1
+Tug of war,382,48,11,7
+Using the monkey bar,383,314,21,7
+Using the rowing machine,384,58,17,5
+Wakeboarding,385,42,17,5
+Waterskiing,386,42,17,5
+Waxing skis,387,366,367,1
+Welding,388,366,367,1
+Drinking coffee,68,46,18,4
+Zumba,69,55,17,5
+Doing kickboxing,70,27,17,5
+Doing karate,99,27,17,5
+Tango,73,23,21,7
+Putting on makeup,76,62,20,2
+High jump,195,64,17,5
+Playing bagpipes,136,61,21,7
+Cheerleading,140,23,21,7
+Wrapping presents,179,41,19,1
+Cricket,82,64,17,5
+Clean and jerk,84,35,17,5
+Preparing pasta,186,31,18,4
+Bathing dog,90,65,22,1
+Discus throw,92,64,17,5
+Playing field hockey,94,60,17,5
+Grooming horse,95,26,22,1
+Preparing salad,96,31,18,4
+Playing harmonica,100,61,21,7
+Playing saxophone,109,61,21,7
+Chopping wood,110,34,15,1
+Using the pommel horse,114,24,17,5
+Javelin throw,116,64,17,5
+Spinning,117,58,17,5
+Ping-pong,119,54,17,5
+Making a sandwich,129,31,18,4
+Brushing hair,125,62,20,2
+Playing guitarra,251,61,21,7
+Doing step aerobics,230,55,17,5
+Playing polo,75,49,17,5
+Snatch,79,35,17,5
+Paintball,141,64,17,5
+Long jump,80,64,17,5
+Cleaning windows,143,37,16,1
+Brushing teeth,148,62,20,2
+Playing flauta,149,61,21,7
+Bungee jumping,154,64,17,5
+Triple jump,155,64,17,5
+Horseback riding,175,49,17,5
+Vacuuming floor,160,37,16,1
+Cleaning shoes,134,45,16,1
+Doing nails,167,62,20,2
+Shot put,169,64,17,5
+Fixing bicycle,171,56,13,1
+Washing hands,173,62,20,2
+Ironing clothes,83,30,16,1
+Using the balance beam,180,24,17,5
+Shoveling snow,183,51,12,1
+Tumbling,258,24,17,5
+Using parallel bars,88,24,17,5
+Getting a tattoo,187,38,20,2
+Rock climbing,188,50,17,5
+Smoking hookah,189,28,11,7
+Shaving,190,62,20,2
+Getting a piercing,214,38,20,2
+Springboard diving,193,42,17,5
+Playing squash,194,54,17,5
+Playing piano,197,61,21,7
+Dodgeball,161,64,17,5
+Smoking a cigarette,201,28,11,7
+Sailing,240,42,17,5
+Getting a haircut,208,38,20,2
+Playing lacrosse,209,54,17,5
+Tai chi,263,27,17,5
+Painting,217,33,15,1
+Mowing the lawn,218,66,10,1
+Walking the dog,221,26,22,1
+Hammer throw,224,64,17,5
+Skateboarding,176,64,17,5
+Polishing shoes,227,45,16,1
+Ballet,229,39,21,7
+Hand washing clothes,232,30,16,1
+Plataform diving,233,42,17,5
+Playing violin,234,61,21,7
+Breakdancing,236,23,21,7
+Windsurfing,237,42,17,5
+Hopscotch,241,48,11,7
+Doing motocross,243,64,17,5
+Mixing drinks,244,31,18,4
+Starting a campfire,153,64,17,5
+Belly dance,247,23,21,7
+Archery,250,64,17,5
+Volleyball,123,342,17,5
+Playing water polo,130,42,17,5
+Playing racquetball,253,54,17,5
+Kayaking,254,42,17,5
+Polishing forniture,156,37,16,1
+Playing kickball,257,64,17,5
+Using uneven bars,192,24,17,5
+Washing dishes,213,43,18,4
+Pole vault,106,64,17,5
+Playing accordion,267,61,21,7
+Playing badminton,268,54,17,5
