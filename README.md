@@ -1,6 +1,7 @@
 # A large-scale fMRI dataset for human action recognition
 Human Action Dataset (HAD), a large-scale functional magnetic resonance imaging (fMRI) dataset for human action recognition. HAD contains fMRI responses to 21,600 video clips from 30 participants. The video clips encompass 180 human action categories and offer a comprehensive coverage of complex activities in daily life. The dataset contains raw data, derived data from fMRIPrep and Ciftify, and suface-based analyzed data.   
-To get more details, please refer to the paper at {website} and the dataset at https://openneuro.org/datasets/ds004488
+
+To get more details, please refer to the paper at https://www.nature.com/articles/s41597-023-02325-6 and the dataset at https://openneuro.org/datasets/ds004488
 
 ## Preprocess procedure
 The MRI data were first converted into the Neuroimaging Informatics Technology Initiative (NIfTI) format and then organized into the Brain Imaging Data Structure (BIDS)using HeuDiConv (https://github.com/nipy/heudiconv). Then fMRIprep 20.2.1 were used to perform volume prepocess. Detailed information on fMRIprep pipelines can be found in the online documentation of the fMRIPrep(https://fmriprep.org). Then, all the preprocessed individual fMRI data were registered onto the 32k fsLR space using the Ciftify toolbox.
